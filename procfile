@@ -1,1 +1,1 @@
-worker: python videokotta.py
+web: python videokotta.py
